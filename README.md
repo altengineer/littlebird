@@ -1,6 +1,6 @@
 # Littlebird 🐦
 
-A local macOS voice dictation tool — hold a key, speak, and your words are typed wherever your cursor is. Open-source alternative to [Wispr Flow](https://wisprflow.ai).
+A local macOS voice dictation tool — hold a key, speak, and your words are typed wherever your cursor is. 
 
 ## How it works
 
